@@ -1,0 +1,7 @@
+print('the fourth program')
+print('Задача: выделить первую цифру после точки в тексте 123.456')
+Name3 = (int((float('123.456')) * 10))
+Name4 = (Name3 / 10)
+Name5 = (int(Name4))
+Name6 = ((Name4 - Name5) * 10)
+print('Итог', int(Name6))
